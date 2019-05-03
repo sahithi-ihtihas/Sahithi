@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Sahithi/static/css/main.584f321a.chunk.css",
+    "main.js": "/Sahithi/static/js/main.a59cbae3.chunk.js",
+    "main.js.map": "/Sahithi/static/js/main.a59cbae3.chunk.js.map",
+    "runtime~main.js": "/Sahithi/static/js/runtime~main.06423617.js",
+    "runtime~main.js.map": "/Sahithi/static/js/runtime~main.06423617.js.map",
+    "static/js/2.b41502e9.chunk.js": "/Sahithi/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/Sahithi/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/Sahithi/index.html",
+    "precache-manifest.6a4dee770200961b8cce667ab1c10a0f.js": "/Sahithi/precache-manifest.6a4dee770200961b8cce667ab1c10a0f.js",
+    "service-worker.js": "/Sahithi/service-worker.js",
+    "static/css/main.584f321a.chunk.css.map": "/Sahithi/static/css/main.584f321a.chunk.css.map",
+    "static/media/logo.svg": "/Sahithi/static/media/logo.5d5d9eef.svg"
+  }
+}
